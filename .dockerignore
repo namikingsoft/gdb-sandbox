@@ -1,0 +1,14 @@
+.env
+.git
+.github
+.cache
+.vimsessions
+.dockerignore
+pkg
+out/*
+tmp/*
+target
+vendor
+README.md
+Dockerfile
+docker-compose.yml

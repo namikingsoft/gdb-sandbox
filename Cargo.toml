@@ -1,0 +1,11 @@
+[package]
+name = "app"
+version = "0.1.0"
+authors = ["root"]
+
+[dependencies]
+rpassword = "2.0.0"
+rusoto_core = "0.34.0"
+rusoto_credential = "0.13.0"
+rusoto_s3 = "0.34.0"
+rust-crypto = "0.2.35"

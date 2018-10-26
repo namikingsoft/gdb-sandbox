@@ -1,0 +1,5 @@
+#!/bin/sh -eu
+/usr/bin/gdb -q \
+  -iex "set auto-load safe-path ." \
+  -ex start \
+  "$@"

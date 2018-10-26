@@ -1,0 +1,8 @@
+/.env
+/.gdb_history
+/.bash_history
+/out
+/tmp
+/vendor
+/target
+**/*.rs.bk
